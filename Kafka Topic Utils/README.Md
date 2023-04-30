@@ -1,6 +1,6 @@
-This code includes three functions to create, produce, and consume data in a Kafka topic.
+## This code includes three functions to create, produce, and consume data in a Kafka topic.
 
-To use this code, you need to install two libraries: kafka-python and confluent-kafka.
+## To use this code, you need to install two libraries: kafka-python and confluent-kafka.
 
 You can install these libraries using pip. Open a command prompt or terminal and run the following commands:
 
